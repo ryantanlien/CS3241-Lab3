@@ -11,4 +11,6 @@ It teaches concepts such as 3D matrix transforms, different hidden surface remov
 illumination and shading, different bump mapping techniques and ray tracing. It also goes through the old OpenGL specification,
 thorougly examining each stage of its pipeline.
 
-
+## Lab 3 Rendering Features
+The lab features simulating a reflection using a 2nd alternative OpenGL camera. It also features texture mapping.
+Objects such as the Minecraft Dirt Block and the Sword was designed by myself, and each Primitive's vector coordinates and transforms are calculated and drawn by hand as well.
