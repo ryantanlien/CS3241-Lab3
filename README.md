@@ -12,5 +12,11 @@ illumination and shading, different bump mapping techniques and ray tracing. It 
 thorougly examining each stage of its pipeline.
 
 ## Lab 3 Rendering Features
-The lab features simulating a reflection using a 2nd alternative OpenGL camera. It also features texture mapping.
+The lab features simulating a reflection using a 2nd alternative OpenGL camera. 
+
+Another feature that students implemented was designing the OpenGL camera to move in a quarternion around the center of the scene. 
+
+Students were also required to change the material properties of the central table to make sure that the specular highlights are accurately represented. 
+
 Objects such as the Minecraft Dirt Block and the Sword was designed by myself, and each Primitive's vector coordinates and transforms are calculated and drawn by hand as well.
+The material properties of the Dirt Block and Sword are changed accordingly to make them more reflective.
